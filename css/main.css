@@ -94,31 +94,32 @@ section {
 
 width: 100%;
 display: block;
-  }
+}
 
 .photo:nth-child(2) {
 
 width: 33.3333%;
 display: block;
-  }
+}
 
 .photo:nth-child(5) {
 
 width: 33.3333%;
 display: none;
-  }
+}
 
 .photo:nth-child(4) {
 
 width: 33.3333%;
 display: block;
-  }
+}
 
 .photo:nth-child(3) {
 
 width: 33.3333%;
 display: block;
-  }
+}
+
 }
 @media only screen and (min-width: 60em) {
 
@@ -131,30 +132,30 @@ section {
 
 width: 66.6666%;
 display: block;
-  }
+}
 
 .photo:nth-child(2) {
 
 width: 33.3333%;
 display: block;
-  }
+}
 
 .photo:nth-child(5) {
 
 width: 33.3333%;
 display: block;
-  }
+}
 
 .photo:nth-child(4) {
 
 width: 33.3333%;
 display: block;
-  }
+}
 
 .photo:nth-child(3) {
 
 width: 33.3333%;
 display: block;
-  }
+}
 
 }
